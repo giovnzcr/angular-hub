@@ -10,7 +10,7 @@ import { NgOptimizedImage } from '@angular/common';
       <img
         alt="Angular Hub Logo"
         class="logo"
-        ngSrc="/assets/images/logo.webp"
+        ngSrc="assets/images/logo.webp"
         height="500"
         width="500"
         priority
